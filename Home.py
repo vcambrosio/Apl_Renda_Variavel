@@ -7,7 +7,7 @@ st.set_page_config(
 )
 
 # Exibe a logomarca na barra lateral, acima de tudo
-st.sidebar.image("data/logo1.png", width=200)
+#st.sidebar.image("data/logo1.png", width=200)
 
 # Mensagem principal na página
 st.write("# Welcome to Streamlit! 👋")
